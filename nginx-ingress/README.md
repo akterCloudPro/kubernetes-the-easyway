@@ -11,5 +11,8 @@ https://kubernetes.io/docs/concepts/services-networking/ingress/
 ![nginx-ingress](https://user-images.githubusercontent.com/73134659/152646566-95589b3e-b859-4081-aa29-320f80d3c92f.JPG)
 
 
+![ingress-nginx-action](https://user-images.githubusercontent.com/73134659/152646839-a9605aef-0b3e-4538-9b6c-2952bfe4c747.JPG)
+
+
 
 
