@@ -10,8 +10,10 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that you can
 ### There are two getting started guides available for creating a new Kubernetes cluster with nodes in Amazon EKS:
 - Getting started with Amazon EKS – AWS Management Console and AWS CLI 
   https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html
+
 - Getting started with Amazon EKS – eksctl
   https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
+  ##### eksctl - The official CLI for Amazon EKS https://eksctl.io/introduction/
 
 
 
