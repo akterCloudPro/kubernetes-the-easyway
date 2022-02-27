@@ -7,7 +7,7 @@ spec:
     app: nginx-app1
   ports:
     - protocol: TCP
-      port: 80
+      port: 8080
       targetPort: 80
   type: ClusterIP
 ---
@@ -20,6 +20,6 @@ spec:
     app: nginx-app2
   ports:
     - protocol: TCP
-      port: 80
+      port: 8080
       targetPort: 80
   type: ClusterIP
